@@ -9,7 +9,7 @@ body {
     border-radius: 15px;
 } 
 
-input,
+.num,
 button {
     padding: 10px;
     border: none;
@@ -33,9 +33,9 @@ button {
     color: white;
 }
 
-input { 
+.num { 
     font-size: 15px;
-    margin-bottom: 10px;
+    margin-bottom: 10px;    
 }
 
 button {
